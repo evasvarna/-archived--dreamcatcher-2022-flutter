@@ -20,8 +20,7 @@ A cross-platform mobile and web application designed to record, track, and organ
 
 | Freehand Sketch Canvas | Smart Alarm Reminder | Tips | Dictionary |
 | :---: | :---: | :---: | :---: |
-| <img src="screenshots/sketchpad.png" width="240" alt="Sketch Canvas"> | <img src="screenshots/alarm.png" width="240" alt="Alarm Reminder"> | 
-<img src="screenshots/tips.png" width="240" alt="Tips"> | <img src="screenshots/dict.png" width="240" alt="Dict"> |
+| <img src="screenshots/sketchpad.png" width="240" alt="Sketch Canvas"> | <img src="screenshots/alarm.png" width="240" alt="Alarm Reminder"> | <img src="screenshots/tips.png" width="240" alt="Tips"> | <img src="screenshots/dict.png" width="240" alt="Dict"> |
 
 | Easter Eggs | 
 | :---: |
