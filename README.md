@@ -12,6 +12,16 @@ A cross-platform mobile and web application designed to record, track, and organ
 * **Calendar & Organization:** Interactive calendar and event views to browse past dreams easily.
 * **
 
+## Screenshots
+
+| Home & Calendar | Dream Journal Entries| Add Dream | Achievements & Stats |
+| :---: | :---: | :---: | :---: |
+| <img src="screenshots/home.png" width="240" alt="Home Screen"> | <img src="screenshots/entry1.png" width="240" alt="Dream Entry Example"> | <img src="screenshots/adddream.png" width="240" alt="Add Dream"> | <img src="screenshots/stats.png" width="240" alt="Statistics"> |
+
+| Freehand Sketch Canvas | Smart Alarm Reminder |
+| :---: | :---: |
+| <img src="screenshots/sketchpad.png" width="240" alt="Sketch Canvas"> | <img src="screenshots/alarm.png" width="240" alt="Alarm Reminder"> |
+
 ## Tech Stack & Key Packages
 * **Framework:** Flutter `2.10.5` (managed via FVM)
 * **Language:** Dart
